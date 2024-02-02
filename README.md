@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m a manual QA engineer with a meticulous and demanding nature, which requires me to grow and develop in the dynamic field of software testing every day. My extensive background and advanced education in management and jurisprudence have equipped me with the skills to foster excellent relationships with colleagues and proficiently draft diverse types of documentation. I love delving into processes and feel truly happy when I find and prevent bugs.
+
 
 <!--
 **MariaNikonova3101/MariaNikonova3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
