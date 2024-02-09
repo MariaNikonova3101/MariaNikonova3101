@@ -1,6 +1,6 @@
 Hi!!!😊😉
 
-I’m a manual QA engineer with a meticulous and demanding nature, which requires me to grow and develop in the dynamic field of software testing every day. My extensive background and advanced education in management and jurisprudence have equipped me with the skills to foster excellent relationships with colleagues and proficiently draft diverse types of documentation. I love delving into processes and feel truly happy when I find and prevent bugs.
+I am a Quality Assurance Engineer with a meticulous and demanding nature that requires me to grow and develop daily in the dynamic field of software testing. My journey began with a passion for HTML, some of my work is presented below. But my real passion is software testing. I love delving into processes and feel truly happy when I find and prevent bugs.
 
 
 <!--
